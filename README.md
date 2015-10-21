@@ -6,5 +6,9 @@ Logo cercasi :-)
 
 - Aggiungere una directory ```username``` con le immagini per la proposta.
 - Non obbligatorio, ma forse utile, un piccolo ```Readme.md``` per raccontare il logo.
+- Nice to have: SVG 
+- Minimo 400x400px PNG
 
-Valutiamo poi se mettere ai voti su Trello.
+Valutazione in base alle star del branch.
+
+Data di scadenza: TBD
