@@ -9,6 +9,5 @@ Logo cercasi :-)
 - Nice to have: SVG 
 - Minimo 400x400px PNG
 
-Valutazione in base alle star del branch.
+Scelta "vincitore" entro fine anno? Ci riusciamo? :-)
 
-Data di scadenza: TBD
