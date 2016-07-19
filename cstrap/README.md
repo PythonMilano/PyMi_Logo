@@ -1,11 +1,9 @@
 # Logo Python Milano
 
-Immagini recuperate da google images.
-Ispirazione dai seguenti link:
-- http://www.brandmilano.org/mostre-eventi/i-simboli-di-milano/
-- https://it.wikipedia.org/wiki/Stemma_di_Milano
-- https://it.wikipedia.org/wiki/Biscione_(araldica)
+Conversione con ImageMagic
 
-Il logo ricalca lo stemma del comune di Milano mettendo insieme i simboli del biscione e del duomo con nebbia su sfondo bianco.
+```
+$ convert -density 500 -resize 500x500 pyBiscione.svg PyBiscione_resized.png
+```
 
-Motto del gruppo: """La pyBissa de Milan."""
+http://superuser.com/questions/516095/bake-an-svg-image-into-a-png-at-a-given-resolution
